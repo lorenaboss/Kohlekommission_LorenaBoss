@@ -1,0 +1,56 @@
+Codebuch Kohlekommission
+
+id: ID wie Edgelist
+
+name: voller Name 
+
+sex: 
+1= männlich 
+2= weiblich
+3= divers
+
+type: 
+1= Person
+2= Organisation
+
+age: 
+1 = unter 18,
+2 = 18 bis 25,
+3 = 26 bis 34,
+4 = 35 bis 64,
+5 = über 64
+
+party:
+1= CDU/CSU
+2= SPD 
+3= Grüne
+4= Linke
+5= FDP
+6=AfD
+7=parteilos
+ 
+representaion:
+1= Politik
+2= Wirtschaft
+3= Gewerkschaft
+4=Umwelt
+5= Regionen
+6= Wissenschaft      
+
+position: 
+1= Vorsitz
+2= Mitglied
+3= kein Stimmrecht
+
+state: 
+1=Brandenburg
+2=Nordrhein-Westfalen 
+3=Berlin
+4=Sachsen
+5=Rheinland-Pfalz
+6=Schleswig-Holstein
+7=Sachsen-Anhalt
+8=Bayern
+9=Niedersachsen
+
+99: definiert fehlende Werte
