@@ -1,0 +1,79 @@
+id,name,sex,type,age,party,representation,position,state
+KK,Kohlekommission,99,2,99,99,99,99,99
+Platzeck,Matthias Platzeck,2,1,5,2,99,1,1
+Pofalla,Ronald Pofalla,2,1,4,1,99,1,2
+Preatorius,Barbara Praetorius,1,1,4,99,99,1,3
+Tillich,Stanislaw Tillich,2,1,4,1,99,1,4
+Hasselfeldt,Gerda Hasselfeldt,1,1,5,1,1,2,99
+Kampeter,Steffen Kampeter,2,1,4,1,2,2,2
+Kapferer,Stefan Kapferer,2,1,4,5,2,2,99
+Kempf,Dieter Kempf,2,1,5,99,2,2,99
+Nemat,Claudia Nemat,1,1,4,99,2,2,99
+Reiche,Katherina Reiche,1,1,4,1,2,2,1
+Röstel,Gunda Röstel,1,1,4,3,2,2,4
+Schweitzer,Eric Schweitzer,2,1,4,5,2,2,3
+Grothus,Antje Grothus,1,1,4,99,5,2,5
+Wodtke,Hannolre Wodtke,1,1,,1,5,2,1
+Herntier,Christine Herntier,1,1,4,0,5,2,1
+Kreuzberg,Michael Kreuzberg,2,1,4,1,5,2,2
+Priggen,Reiner Priggen,2,1,5,3,5,2,2
+Vassiliadis,Michael Vassiliadis,2,1,4,99,3,2,99
+Scheidt,Andreas Scheidt,2,1,4,2,3,2,2
+Körzell,Sefan Körzell,2,1,4,2,3,2,99
+Kaiser,Martin Kaiser,2,1,4,99,4,2,99
+Weiger,Hubert Weiger,2,1,5,99,4,2,99
+Niebert,Kai Niebert,2,1,4,99,4,2,99
+Allmendinger,Jutta Allmendinger,1,1,4,99,6,3,3
+Matthes,Felix Matthes,2,1,4,99,6,2,3
+Schönefeld,Christiane Schönfeld,1,1,4,2,6,2,2
+Schellnhuber,Hans Joachim Schellnhuber,2,1,5,99,6,2,1
+Niebuhr,Annekathrin Niebuhr,1,1,4,99,6,2,6
+Wehrspohn,Ralf Wehrspohn,1,1,4,99,6,2,7
+Lämmel,Andreas Lämmel,2,1,4,1,1,3,4
+Lenz,Andreas Lenz,2,1,4,1,1,3,8
+Miersch,Mattthias Miersch,2,1,4,2,1,3,9
+DB,Deutsche Bahn,99,2,99,99,99,99,99
+CDU,CDU/CSU,99,2,99,99,99,99,99
+Merkel,Angela Merkel,1,1,99,1,1,99,99
+Thinktanks,Thinktanks Agora Energiewende,99,2,99,99,99,99,99
+Kreuz,Deutsches Rotes Kreuz,99,2,99,99,99,99,99
+BDA,Bundesvereinigung der Deutschen Arbeitgeberverbände,99,2,99,99,99,99,99
+BDEW,BDEW,99,2,99,99,99,99,99
+FDP,FDP,99,2,99,99,99,99,99
+BDI,Bundesverband der Deutschen Industrie,99,2,99,99,99,99,99
+Telekom,Telekom,99,2,99,99,99,99,99
+McKinsey,Mc Kinsey,99,2,99,99,99,99,99
+VKU,Verband Kommunaler Unternehmen,99,2,99,99,99,99,99
+Entwässerung,Stadtentwässerung Dresden,99,2,99,99,99,99,99
+Grünen,DIE Grünen,99,2,99,99,99,99,99
+HTW,Hochschule für Technik und Wirtschaft Berlin,99,2,99,99,99,99,99
+DIHT,Deutsche Industrie-und Handelskammertag,99,2,99,99,99,99,99
+Alba,Entsorgungdkonzern Alba Berlin,99,2,99,99,99,99,99
+BfB,Buirer für Buir,99,2,99,99,99,99,99
+GZW,Grüne Zukunft Welzow,99,2,99,99,99,99,99
+Spremberger,Spremberger Tuche,99,2,99,99,99,99,99
+LEE,Landesverband Erneuerbare Energien NRW,99,2,99,99,99,99,99
+IG BCE,"Industriegewerkschaft Bergbau Chemie, Energie",99,2,99,99,99,99,99
+Verdi,Verdi,99,2,99,99,99,99,99
+Eon,Energiekonzern Eon,99,2,99,99,99,99,99
+DGB,Deutscher Gewerkschaftsbund,99,2,99,99,99,99,99
+Greenpeace,Greenpeace,99,2,99,99,99,99,99
+BUND,Bund für Umwelt und Naturschutz,99,2,99,99,99,99,99
+NE,Rat für Nachhaltige Entwicklung (Bundesregierung),99,2,99,99,99,99,99
+DNR,Dachverband Deutscher Naturschutzring,99,2,99,99,99,99,99
+ND,Naturfreunde Deutschland,99,2,99,99,99,99,99
+Zü,"Universität Zürich, Didaktik der Naturwissenschaften und Nachhaltigkeit",99,2,99,99,99,99,99
+WZB,Wissenschaftszentrum Berlin für Sozialforschung,99,2,99,99,99,99,99
+Be,Berliner Humbold Universität,99,2,99,99,99,99,99
+BA,Bundesagentur für Arbeit,99,2,99,99,99,99,99
+Öko,Öko-Institut,99,2,99,99,99,99,99
+Klimaforschung,Institut für Klimaforschung,99,2,99,99,99,99,99
+Po,"Universität Potsdam, Theoretische Physik",99,2,99,99,99,99,99
+SRC,Stockholm Resilience Centr,99,2,99,99,99,99,99
+IPCC,Weltklimarat,99,2,99,99,99,99,99
+Ki,"Universität Kiel, räumliche Ökometrie",99,2,99,99,99,99,99
+Frauenhofer,Frauenhofer,99,2,99,99,99,99,99
+Hal,"Universität Halle, Materialdesign",99,2,99,99,99,99,99
+WE,"Ausschuss für Wirtschaft und Energie, Bundestag",99,2,99,99,99,99,99
+PKM,Parlamentskreis Mittelstand,99,2,99,99,99,99,99
+SPD,SPD,99,2,99,2,99,99,99
