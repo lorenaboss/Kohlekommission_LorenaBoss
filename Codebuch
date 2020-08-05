@@ -31,20 +31,20 @@ Node- Attribute:
 6=AfD
 7=parteilos
  
-**representaion**:
+**representaion** (in der Kohlekommission):
 1= Politik
 2= Wirtschaft
 3= Gewerkschaft
-4=Umwelt
+4= Umwelt
 5= Regionen
 6= Wissenschaft      
 
-**position**: 
+**position** (in der Kohlekommission): 
 1= Vorsitz
 2= Mitglied
 3= kein Stimmrecht
 
-**state**: 
+**state** (Herkunft nach Pass) 
 1=Brandenburg
 2=Nordrhein-Westfalen 
 3=Berlin
