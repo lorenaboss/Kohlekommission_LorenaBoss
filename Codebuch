@@ -1,5 +1,7 @@
 Codebuch Kohlekommission
 
+Node- Attribute: 
+
 id: ID wie Edgelist
 
 name: voller Name 
@@ -52,5 +54,17 @@ state:
 7=Sachsen-Anhalt
 8=Bayern
 9=Niedersachsen
+
+Edge-Attribute: 
+
+from= definiert den Sender in gerichteten Netzwerken. Entspricht ID in der Nodelist.
+
+to= definiert den Empfänger in ungerichteten Netzwerken. Entspricht ID in der Nodelist.
+
+relation (definiert die Art der Beziehung) 
+1= Mitglied 
+2= Vorstand 
+3= Partei
+4= Proffesur
 
 99: definiert fehlende Werte
