@@ -2,27 +2,27 @@ Codebuch Kohlekommission
 
 Node- Attribute: 
 
-id: ID wie Edgelist
+**id**: ID wie Edgelist
 
-name: voller Name 
+**name**: voller Name 
 
-sex: 
+**sex**: 
 1= männlich 
 2= weiblich
 3= divers
 
-type: 
+**type**: 
 1= Person
 2= Organisation
 
-age: 
+**age**: 
 1 = unter 18,
 2 = 18 bis 25,
 3 = 26 bis 34,
 4 = 35 bis 64,
 5 = über 64
 
-party:
+**party**:
 1= CDU/CSU
 2= SPD 
 3= Grüne
@@ -31,7 +31,7 @@ party:
 6=AfD
 7=parteilos
  
-representaion:
+**representaion**:
 1= Politik
 2= Wirtschaft
 3= Gewerkschaft
@@ -39,12 +39,12 @@ representaion:
 5= Regionen
 6= Wissenschaft      
 
-position: 
+**position**: 
 1= Vorsitz
 2= Mitglied
 3= kein Stimmrecht
 
-state: 
+**state**: 
 1=Brandenburg
 2=Nordrhein-Westfalen 
 3=Berlin
@@ -57,14 +57,14 @@ state:
 
 Edge-Attribute: 
 
-from= definiert den Sender in gerichteten Netzwerken. Entspricht ID in der Nodelist.
+**from**= definiert den Sender in gerichteten Netzwerken. Entspricht ID in der Nodelist.
 
-to= definiert den Empfänger in ungerichteten Netzwerken. Entspricht ID in der Nodelist.
+**to**= definiert den Empfänger in ungerichteten Netzwerken. Entspricht ID in der Nodelist.
 
-relation (definiert die Art der Beziehung) 
+**relation** (definiert die Art der Beziehung) 
 1= Mitglied 
 2= Vorstand 
 3= Partei
 4= Proffesur
 
-99: definiert fehlende Werte
+**99**: definiert fehlende Werte
